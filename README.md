@@ -8,7 +8,7 @@
 | Apple iMac15,1 (Mid 2015) | Core i5-4590 3.30GHz 4 cores | macOS 11.7.3 | 886 | 2013 | 24502 |
 | Dell PowerEdge T350 (saga) | Xeon E-2356G 3.20GHz 6 cores | Ubuntu 22.04 | 1564 | 6820 | - |
 | Stone (2020) | Core i7-9700 4700MHz 8 cores | Ubuntu 22.10 | 1656 | 6838 | - |
-| Mac Mini (Late 2020) | M1 3197MHz 8 cores | macOS 12.6.3 | 2124 | 8417 | 27527 |
+| Mac Mini (Late 2020) | M1 3197MHz 8C/8G cores | macOS 12.6.3 | 2124 | 8417 | 27527 |
 | Mac Mini14,12 (2023) | M2 Pro 3479MHz 12C/19G cores | macOS | 2605 | 14235 | 79724 | 
 
 <br>
