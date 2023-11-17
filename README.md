@@ -12,7 +12,7 @@
 | Stone (2023) Q570M | Core i5-11400 4389MHz 6 cores | Intel UHD730| Windows 10 | 1845 | 6702 | 6358 V |
 | Mac Mini (Late 2020) | M1 3197MHz 8 cores | M1 8 cores | macOS 12.6.3 | 2124 | 8417 | 27527 M |
 | Mac Mini14,3 (2023) | M2 3.48GHZ 8 cores | M2 8 cores | macOS 13.4.1 | 2615 | 9903 | 45889 M |
-| Mac Mini14,12 (2023) | M2 Pro 3479MHz 12cores | M2 19 cores | macOS 13.3.1 | 2605 | 14235 | 79724 M | 
+| Mac Mini14,12 (2023) | M2 Pro 3.48MHz 12cores | M2 19 cores | macOS 13.3.1 | 2605 | 14235 | 79724 M | 
 
 <br>
 ### Compute results key <br>
